@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Syne:wght@700;800&display=swap');
+
+@import './base.css';
+@import './navbar.css';
+@import './layout.css';
+@import './components.css';
+@import './posts.css';
+@import './authors.css';
+@import './forms.css';
+@import './pages.css';
