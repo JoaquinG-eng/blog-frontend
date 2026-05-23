@@ -139,7 +139,7 @@ if (postDetail) { renderPost(postDetail[1]); return; }
 Todas las llamadas al backend están centralizadas en `JS/api.js`. La base URL apunta al deploy en Render:
 
 ```javascript
-const BASE = "https://rest-api-node-pbza.onrender.com/api";
+const BASE = "https://rest-api-node-pbza.onrender.com";
 ```
 
 ### CSS
